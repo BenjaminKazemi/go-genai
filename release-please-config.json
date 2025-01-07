@@ -1,0 +1,8 @@
+{
+  "release-type": "go",
+  "separate-pull-requests": true,
+  "include-component-in-tag": false,
+  "packages": {
+    ".": {}
+  }
+}
